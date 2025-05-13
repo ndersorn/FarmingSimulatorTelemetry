@@ -5,9 +5,11 @@
     <version>1.0.0.2</version>
     <title>
         <en>Telemetry exporter</en>
+        <da>Telemetri eksportør</da>
     </title>
     <description>
         <en><![CDATA[Export telemetry to files]]></en>
+        <da><![CDATA[Eksport telemetri til filer]]></da> 
     </description>
     <iconFilename>FSTelemetryLogo.dds</iconFilename>
     <multiplayer supported="true" />
